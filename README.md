@@ -1,2 +1,2 @@
 # andy-graphql
-GraphQL API Implementation.
+GraphQL API Implementations.
