@@ -1,2 +1,3 @@
 # andy-db
-Various Database & API Implementations.
+
+Various *GraphQL* API & *Database* Implementations.
